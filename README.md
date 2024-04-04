@@ -1,5 +1,7 @@
 ![Facelapse example](http://i.imgur.com/7OjPG19.gif)
 
+[Live test](https://jumpjack.github.io/facelapse/www/index.html)
+
 # 1 install
     git clone https://github.com/fczuardi/facelapse.git
     cd facelapse
